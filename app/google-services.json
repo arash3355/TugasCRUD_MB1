@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560013296989",
+    "project_id": "news-catalog-a53de",
+    "storage_bucket": "news-catalog-a53de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560013296989:android:d1e3b9e7cb1003846fd4b4",
+        "android_client_info": {
+          "package_name": "com.sttbandung.mycatalog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuwKnlPlmYbtHlyNjlFqIZQhNHX9W8LO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
